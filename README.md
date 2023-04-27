@@ -22,8 +22,8 @@ could explain this.
 <img width="844" alt="Screen Shot 2023-04-27 at 7 23 57 AM" src="https://user-images.githubusercontent.com/112993897/234851589-1467002d-95e6-4b8d-a987-59feaa2efa66.png">
 
 Moving forward, I made a box-plot comparing Michigan vs Ohio Reading and Language Arts Proficiency Score in 2020-2021. When looking
-at this graph, it is interesting to see that the record scores for Michigan vs Ohio are NEARLY the same number, just off by a sheer 
-decimal. This made me wonder what the maps of the counties between each of these states would look like in relation to educational records, 
+at this graph, it is interesting to see that the record scores for Michigan vs Ohio are close to the same number, just off by a  
+few numbers. This made me wonder what the maps of the counties between each of these states would look like in relation to educational records, 
 which I think would be interesting to look at someday further.
 
 <img width="373" alt="Screen Shot 2023-04-27 at 7 23 14 AM" src="https://user-images.githubusercontent.com/112993897/234851639-7441a313-6ae4-4b9e-859f-514f96e534e7.png">
